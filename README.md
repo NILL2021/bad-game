@@ -13,3 +13,4 @@ delete game
 
 pretty sure this runs on Mac, Linux and Windows because Love2D is supported on those OS's and lua is aswell. 
 
+![Game 22_02_2022 19_34_06](https://user-images.githubusercontent.com/81653971/155206156-66dda116-e5e8-4d34-9967-35c1966bf351.png)
