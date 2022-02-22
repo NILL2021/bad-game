@@ -13,4 +13,4 @@ delete game
 
 pretty sure this runs on Mac, Linux and Windows because Love2D is supported on those OS's and lua is aswell. 
 
-![A screenshot of the game... With it's "beautiful" colours.](Game 22_02_2022 19_34_06.png "Screenshot")
+[A screenshot of the game... With it's "beautiful" colours.](Game 22_02_2022 19_34_06.png "Screenshot")
